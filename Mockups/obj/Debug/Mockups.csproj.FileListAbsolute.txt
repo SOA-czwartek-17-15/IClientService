@@ -1,0 +1,6 @@
+E:\Dropbox\!SOA\Mockups\bin\Debug\Mockups.exe
+E:\Dropbox\!SOA\Mockups\bin\Debug\Mockups.pdb
+E:\Dropbox\!SOA\Mockups\bin\Debug\Contracts.dll
+E:\Dropbox\!SOA\Mockups\obj\Debug\Mockups.csprojResolveAssemblyReference.cache
+E:\Dropbox\!SOA\Mockups\obj\Debug\Mockups.exe
+E:\Dropbox\!SOA\Mockups\obj\Debug\Mockups.pdb
